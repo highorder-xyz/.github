@@ -10,7 +10,7 @@ Features:
 
 
 Compared to Low-Code/No-Code platforms:
-* Can not only develop business and information system software, but also can develop any type of software, including internet apps, puzzle and casual games, hardware monitoring and control software, etc.
+* Not only can develop business and information system software, but also can develop any type of software, including internet apps, puzzle and casual games, hardware monitoring and control software, etc.
 * Provides Hola language for sharing and collaboration.
 * Develop software with a more user-friendly interface.
 * Support customized themes
